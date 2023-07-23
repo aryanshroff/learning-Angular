@@ -165,12 +165,5 @@ To remove a project from this repository, use the following steps:
 
 Contributions to this repository are welcome! If you have any bug fixes, enhancements, or new project additions, please feel free to submit a pull request.
 
-## License
+## Thank You!
 
-This repository is licensed under the [MIT License](LICENSE). Feel free to use, modify, and distribute the code for your projects. However, make sure to provide the necessary attribution and include the original license file in your projects.
-
-Happy coding!
-
----
-
-Please update `<repository-url>` in the instructions with the actual URL of your Git repository. Additionally, customize any other parts of this README to suit your preferences and requirements. If you have any questions or need further assistance, don't hesitate to ask!
